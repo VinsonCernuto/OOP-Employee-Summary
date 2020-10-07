@@ -3,7 +3,7 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)<br />
   
   ## Description
-   An App for collection information on employees
+   An App for collection information on employees.
   
    ## Table of Contents
   - [Description](#description)
