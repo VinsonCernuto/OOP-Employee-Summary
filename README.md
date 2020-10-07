@@ -1,6 +1,6 @@
   <h1 align="center">OOP-Employee-Summary</h1>
     
-  (https://img.shields.io/badge/license-MIT License-blue.svg)<br />
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)<br />
   
   ## Description
    An App for collection information on employees
@@ -23,8 +23,7 @@
   <img src="assets\Gif.gif">
   
   ## License
-  (https://img.shields.io/badge/license-MIT License-blue.svg)
-  <br />
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)<br />
   This application is covered by the MIT Licenselicense. 
   
   ## Contributing
